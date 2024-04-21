@@ -7,16 +7,16 @@ from pyrogram import filters
 load_dotenv()
 
 # Get this value from my.telegram.org/apps
-API_ID = int(getenv("14495099"))
-API_HASH = getenv("2c54ae09ead43077fe57b7ce84cc0f18")
+API_ID = int(getenv(""))
+API_HASH = getenv")
 # Get your token from @BotFather on Telegram.
-BOT_TOKEN = getenv("7056365530:AAHJ2FRlYFeKtiWIkTE0fXO_QbckswlX_sw")
+BOT_TOKEN = getenv("7056")
 # Add Owner Username without @ 
-OWNER_USERNAME = getenv("OWNER_USERNAME", "Amusicass")
+OWNER_USERNAME = getenv("OWNER_USERNAME", "")
 # Get Your bot username
-BOT_USERNAME = getenv("BOT_USERNAME", "Anku143_bot")
+BOT_USERNAME = getenv("BOT_USERNAME", "An")
 # Don't Add style font 
-BOT_NAME = getenv("BOT_NAME", "『ᴀɴᴋɪᴛᴀ ✘ ᴍᴜsɪᴄ 』")
+BOT_NAME = getenv("BOT_NAME", "『ᴀɴ』")
 #get Your Assistant User name
 ASSUSERNAME = getenv("ASSUSERNAME", "NYKAA_ASS")
 EVALOP = list(map(int, getenv("EVALOP", "6195725562").split()))
@@ -31,7 +31,7 @@ SONG_DOWNLOAD_DURATION = int(
 )  # Remember to give value in Minutes
 
 # Chat id of a group for logging bot's activities
-LOGGER_ID = int(getenv("LOGGER_ID", "-1002043827905"))
+LOGGER_ID = int(getenv("LOGGER_ID", "-1005"))
 
 # Get this value from  on Telegram by /id
 OWNER_ID = int(getenv("OWNER_ID", "6195725562"))
